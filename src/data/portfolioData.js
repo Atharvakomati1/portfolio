@@ -10,7 +10,7 @@ export const personalInfo = {
   status: "Available for AI & Full-Stack Roles",
   socialLinks: {
     github: "https://github.com/atharvakomati",
-    linkedin: "https://linkedin.com/in/atharvakomati",
+    linkedin: "www.linkedin.com/in/atharva-komati-242151401",
     email: "mailto:atharvakomati@gmail.com",
     phone: "tel:+918080441258"
   },
